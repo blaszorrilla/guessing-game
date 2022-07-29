@@ -1,7 +1,7 @@
 let wordList = [
     {
         word: "python",
-        hint: "lenguaje de programación con P"
+        hint: "lenguaje de programación con inicial P"
     },
     {
         word: "guitarra",
@@ -60,8 +60,8 @@ let wordList = [
         hint: "tercer planeta del sistema solar"
     },
     {
-        word: "hockey",
-        hint: "a famous outdoor game"
+        word: "futbol",
+        hint: "deporte mas famoso"
     },
     {
         word: "ajedrez",
