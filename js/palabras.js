@@ -16,11 +16,11 @@ let wordList = [
         hint: "Planeta del sistema solar"
     },
     {
-        word: "Oro",
+        word: "oro",
         hint: "metal precioso"
     },
     {
-        word: "Amazon",
+        word: "amazon",
         hint: "sitio de compras en línea"
     },
     {
@@ -52,8 +52,8 @@ let wordList = [
         hint: "formato de audio"
     },
     {
-        word: "map",
-        hint: "diagram represent of an area"
+        word: "wordpress",
+        hint: "Gestor de contenido basado en php"
     },
     {
         word: "tierra",
@@ -117,7 +117,7 @@ let wordList = [
     },
     {
         word: "email",
-        hint: "correo electrónico"
+        hint: "correo electrónico en ingles"
     },
     {
         word: "html",
@@ -125,7 +125,7 @@ let wordList = [
     },
     {
         word: "gmail",
-        hint: "servicio de correo electrónico"
+        hint: "servicio de correo electrónico de google"
     },
     {
         word: "zoom",
@@ -140,15 +140,15 @@ let wordList = [
         hint: "un formato de imagen"
     },
     {
-        word: "googlear",
-        hint: "acción de buscar en internet"
+        word: "chrome",
+        hint: "navegador mas popular"
     },
     {
         word: "instagram",
         hint: "red social de fotografías"
     },
     {
-        word: "Paraguay",
+        word: "paraguay",
         hint: "nombre de país con P"
     },
     {
@@ -156,8 +156,8 @@ let wordList = [
         hint: "enemigo de Batman"
     },
     {
-        word: "dubai",
-        hint: "developed country name"
+        word: "luna",
+        hint: "stelite de la Tierra"
     },
     {
         word: "facebook",
